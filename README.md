@@ -60,8 +60,8 @@ To build and evaluate both a linear regression model and a multilayer perceptron
 - `report.pdf` – Summary with charts and key insights
 
 ---
-👤 Contact & Portfolio
-👤 Jiaxin(Berry) Tian
-📧 berrytian15@gmail.com
-🔗 https://github.com/berrrrry-hub?tab=repositories
+##  Contact & Portfolio
+- 👤 Jiaxin(Berry) Tian
+- 📧 berrytian15@gmail.com
+- 🔗 https://github.com/berrrrry-hub?tab=repositories
 

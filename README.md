@@ -56,11 +56,7 @@ To build and evaluate both a linear regression model and a multilayer perceptron
 
 ##  Files
 
-- `Section_B_Team_5.ipynb` – Full code with model training and predictions
-- `submission.csv` – Kaggle-formatted predictions
-- `report.pdf` – Summary with charts and key insights (if applicable)
+- `house_price_prediction.ipynb` – Full code with model training and predictions
+- `report.pdf` – Summary with charts and key insights
 
----
 
-##  Status
-✔ Completed – Submitted for course grading and Kaggle evaluation.

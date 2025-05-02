@@ -59,4 +59,9 @@ To build and evaluate both a linear regression model and a multilayer perceptron
 - `house_price_prediction.ipynb` – Full code with model training and predictions
 - `report.pdf` – Summary with charts and key insights
 
+---
+👤 Contact & Portfolio
+👤 Jiaxin(Berry) Tian
+📧 berrytian15@gmail.com
+🔗 https://github.com/berrrrry-hub?tab=repositories
 
